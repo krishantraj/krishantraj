@@ -1,4 +1,4 @@
-<img align='right'  src="https://github.com/krishantraj/krishantraj/blob/main/github%20profile%20cover.gif?raw=true">
+<img align='right'  src="https://github.com/krishantraj/krishantraj/blob/main/github%20Cover%20Image.gif?raw=true">
 
 <br>
 
@@ -30,7 +30,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When u can do Nothing , you can actually do anything🤣. [*Hire_Me*](mailto:krishantraj191@gmail.com?Subject=I'm%20excited%20to%20work%20with%20you%20Krishant)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=krishantraj&show_icons=true&hide_border=true)
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=krishantraj&show_icons=true&theme=gruvbox&hide_border=true)
 
 ### Do What You Love ❤️ !
 
